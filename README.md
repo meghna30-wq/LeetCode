@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/meghna30-wq/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/meghna30-wq/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/meghna30-wq/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/meghna30-wq/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/meghna30-wq/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/meghna30-wq/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -91,4 +93,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/meghna30-wq/LeetCode/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
