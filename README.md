@@ -113,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
