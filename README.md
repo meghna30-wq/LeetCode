@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/meghna30-wq/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/meghna30-wq/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
