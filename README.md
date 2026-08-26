@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/meghna30-wq/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/meghna30-wq/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## String Matching
 |  |
 | ------- |
