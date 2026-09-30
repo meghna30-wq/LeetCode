@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/meghna30-wq/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/meghna30-wq/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/meghna30-wq/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/meghna30-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghna30-wq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/meghna30-wq/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/meghna30-wq/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/meghna30-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meghna30-wq/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/meghna30-wq/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/meghna30-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/meghna30-wq/LeetCode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghna30-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
