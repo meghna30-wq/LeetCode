@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/meghna30-wq/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghna30-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/meghna30-wq/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/meghna30-wq/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/meghna30-wq/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/meghna30-wq/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
