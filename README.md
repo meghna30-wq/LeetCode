@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/meghna30-wq/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/meghna30-wq/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/meghna30-wq/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
