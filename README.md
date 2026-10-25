@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/meghna30-wq/LeetCode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/meghna30-wq/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/meghna30-wq/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/meghna30-wq/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/meghna30-wq/LeetCode/tree/master/0204-count-primes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/meghna30-wq/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/meghna30-wq/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/meghna30-wq/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghna30-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/meghna30-wq/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/meghna30-wq/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/meghna30-wq/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/meghna30-wq/LeetCode/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/meghna30-wq/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
