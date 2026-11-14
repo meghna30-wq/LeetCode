@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghna30-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/meghna30-wq/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/meghna30-wq/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/meghna30-wq/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/meghna30-wq/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/meghna30-wq/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/meghna30-wq/LeetCode/tree/master/0242-valid-anagram) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meghna30-wq/LeetCode/tree/master/0169-majority-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/meghna30-wq/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghna30-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/meghna30-wq/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/meghna30-wq/LeetCode/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/meghna30-wq/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
